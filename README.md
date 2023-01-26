@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dániel Bencze
 - 👀 I’m interested in C# coding
 - 🌱 I’m currently learning Business Informatics
-- 📫 How to reach me dnlb1@stud.uni-obuda.hu
+- 📫 How to reach me dnlb0212@gmail.com
 
 <!---
 dnlb1/dnlb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
