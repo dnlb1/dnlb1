@@ -1,6 +1,6 @@
 👋 Hi, I’m Dániel Bencze
 - 👀 I’m interested in C# coding
-- 🌱 I’m currently learning Business Informatics
+- 🌱 Business Informatics degree.
 - 📫 How to reach me dnlb0212@gmail.com
 
 Information knowledge:
